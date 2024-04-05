@@ -3,7 +3,7 @@ b=3
 x=3
 
 
-hjkafdjagbjgbjkdfabjrknskanfd
+y= "hjkafdjagbjgbjkdfabjrknskanfd"
 
 print(a+b+x)
 
