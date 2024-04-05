@@ -1,10 +1,7 @@
 a=10
 b=3
+x=3
 
 
-print(a+b)
+print(a+b+x)
 
-
-print(a*b)
-
-print(a/b)
